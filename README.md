@@ -10,7 +10,5 @@ Overall, this project represents an introductory step in the CCNA learning path,
 
 
 
-<p align="center">
-  <img src="1.png" width="400">
-</p>
+<<img src="1.png" width="400">
 
