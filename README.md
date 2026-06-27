@@ -6,3 +6,11 @@ The network consists of two independent LANs (192.168.1.0/24 and 192.168.2.0/24)
 The project demonstrates fundamental CCNA concepts, including IPv4 addressing, router and switch configuration, basic routing between networks, and the deployment of simple network services. The web server and DNS server provide practical examples of client-server communication, allowing users to access network resources across different subnets. Connectivity was verified through successful communication tests, ensuring that devices can exchange traffic and access available services correctly.
 Although intentionally designed as a simple and beginner-friendly project, this lab establishes a solid foundation for more advanced networking topics. It provides practical experience with Cisco devices while reinforcing the networking fundamentals required before moving on to more complex concepts such as VLANs, Inter-VLAN Routing, DHCP, NAT, Access Control Lists (ACLs), dynamic routing protocols like OSPF, network security, and enterprise-scale network design.
 Overall, this project represents an introductory step in the CCNA learning path, emphasizing correct network design, basic device configuration, and essential troubleshooting skills. It is intended to build a strong understanding of core networking principles that can be expanded into larger and more sophisticated enterprise network implementations in future projects.
+
+
+
+
+<p align="center">
+  <img src="1.png" width="400">
+</p>
+
